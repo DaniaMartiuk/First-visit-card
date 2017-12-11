@@ -1,0 +1,15 @@
+body {
+  color:blue;
+  background-color: darkorange;
+}
+#panda {
+  border: black 1px solid;
+  height: 300px;
+  width: 300px;
+}
+#floar{
+  float:right;
+}
+#finish{
+ float: right;
+}
